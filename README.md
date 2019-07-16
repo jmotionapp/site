@@ -1,3 +1,4 @@
 ### Support or Contact
 
-Having trouble with Jmotion? [contact support](jmotionapp@gmail.com)
+Having trouble with Jmotion?
+Contact support: jmotionapp|at|gmail|dot|com
